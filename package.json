@@ -1,0 +1,35 @@
+{
+  "name": "stackeditio",
+  "version": "1.0.0",
+  "description": "\"Rich Markdown\" editor StackEdit’s Markdown syntax highlighting is unique. The refined text formatting of the editor helps you visualize the final rendering of your files. Created using ModeJS, ElectronJS and MeteorJS, by Westgate Studio DevOPS Team www.westgatestudio.xyz",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "2.0.10",
+    "electron-builder": "20.28.4",
+    "meteor-desktop": "^2.0.0"
+  },
+  "scripts": {
+    "test": "npm run desktop",
+    "desktop": "meteor-desktop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WestgateStudios/StackeditDesktop.git"
+  },
+  "keywords": [
+    "stackedit",
+    "markdown",
+    "syntax",
+    "editor",
+    "ide",
+    "electron",
+    "electron-app"
+  ],
+  "author": "Westgate Studio DevOPS Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WestgateStudios/StackeditDesktop/issues"
+  },
+  "homepage": "https://github.com/WestgateStudios/StackeditDesktop#readme"
+}
