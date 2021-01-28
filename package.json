@@ -5,7 +5,7 @@
   "main": "app.js",
   "dependencies": {},
   "devDependencies": {
-    "electron": "^2.0.10",
+    "electron": "^9.4.0",
     "electron-builder": "20.28.4",
     "github": "^9.2.0",
     "asar": "^0.11.0"
